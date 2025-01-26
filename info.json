@@ -1,0 +1,9 @@
+{
+    "name": "stackless",
+    "version": "1.0.0",
+    "title": "Stackless",
+    "author": "You",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "This mod limits all items to a stack size of 1. (except rails to 4, so you can still build rail lines properly)"
+  }
